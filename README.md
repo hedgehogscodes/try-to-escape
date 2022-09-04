@@ -13,4 +13,4 @@
 **Планы по доработке проекта:**
 1. Дополнить сюжет.
 
-* [Ссылка на GitHub Pages](https://hedgehogscodes.github.io/how-to-learn/)
+* [Ссылка на GitHub Pages](https://hedgehogscodes.github.io/try-to-escape/)
